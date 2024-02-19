@@ -1,3 +1,3 @@
 # Ardistory
 
-Selamat datang teman teman
+Cie merasa paling penting, udah bisa apa aja emang? 
