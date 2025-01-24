@@ -5,6 +5,7 @@ Saya saat ini bekerja di salah satu perusahaan retail terbesar di indonesia seba
 ## Networking Environment
 
 - WINBOX
+- PUTTY
 - MIKROTIK
 - CISCO
 - ARUBA
